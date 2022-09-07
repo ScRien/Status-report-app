@@ -1,0 +1,45 @@
+*{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+#sayfa{
+  width: 500px;
+  margin:auto;
+  background: #C3FF99;
+  padding:20px;
+}
+label{
+  display:block;
+   margin-top:5px;
+}
+input{
+  width: 200px;
+  height: 25px;
+  font-size:1.2em;
+  color: black;
+}
+button{
+  border:none;
+  display:block;
+  margin-top:5px;
+  width: 204px;
+  height: 50px;
+  text-align: center;
+  font-size:1.2em;
+  color: black;
+}
+table{
+  background: #C3FF99;
+  margin:5px;
+  width: 100%;
+  color: orangered;
+  font-weight: bold;
+}
+td,th{
+  font-weight: normal ;
+  border:1px solid white;
+  background: #C3FF99;
+  border-spacing: 0px;
+  margin: 0px;
+  text-align: center;
+  color: orangered;
+}
